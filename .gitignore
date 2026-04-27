@@ -26,6 +26,7 @@ outputs/checkpoints/*.pth
 outputs/metrics/*.csv
 outputs/error_cases/*.jpg
 outputs/error_cases/*.png
+outputs/results/*.log
 
 !outputs/checkpoints/.gitkeep
 !outputs/metrics/.gitkeep
